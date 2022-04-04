@@ -1,0 +1,2 @@
+This is a file called "pink".
+This is some text added to this file.
